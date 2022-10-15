@@ -10,6 +10,8 @@ main {
   margin: auto;
   display: flex;
   align-items: center;
+  transform: rotateZ(-15deg);
+  font-size: larger;
 }
 
 main > div {
